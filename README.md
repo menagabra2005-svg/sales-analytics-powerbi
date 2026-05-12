@@ -1,2 +1,32 @@
-# sales-analytics-powerbi
-Sales analytics dashboard built with Power BI using the Wide World Importers dataset, covering sales performance, customer insights, and employee metrics.
+# Sales Analytics Dashboard — Wide World Importers
+
+## Overview
+This project is a Power BI dashboard that analyzes sales data 
+from the Wide World Importers dataset. It explores sales trends, 
+customer behavior, product performance, and employee contributions 
+across different cities and time periods.
+
+## Dataset
+The dataset consists of 6 tables:
+
+- **FactSale** — Core sales transactions (revenue, quantity, profit)
+- **DimCustomer** — Customer details and segments
+- **DimCity** — Geographic information per city
+- **DimDate** — Date table for time intelligence
+- **DimStockItem** — Product/item details and categories
+- **DimEmployee** — Employee information and hierarchy
+
+## Tools Used
+- Power BI Desktop (.pbix)
+- Microsoft Excel / CSV data files
+
+## How to Use
+1. Download or clone this repository
+2. Open `Project.pbix` using Power BI Desktop
+3. If needed, redirect the data source path to the CSV/Excel files
+
+## Key Insights Explored
+- Total sales and profit over time
+- Top customers and cities by revenue
+- Best-selling products
+- Employee sales performance
