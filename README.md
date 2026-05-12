@@ -28,5 +28,11 @@ The dataset consists of 6 tables:
 ## Key Insights Explored
 - Total sales and profit over time
 - Top customers and cities by revenue
+
+## 📊 Live Dashboard
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhmYTBiMWYtZWZiNS00NzQ2LTg1ZjUtNjJmMDVkNzNjNDIzIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+
+## 🖼️ Dashboard Preview
+![Sales Overview](screenshots/dashboard1.png)
 - Best-selling products
 - Employee sales performance
